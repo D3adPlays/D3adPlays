@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3adplays" alt="d3adplays" /></a> </p>
 
-- 🔭 I’m currently working on [Bascan Clicker](https://github.com/D3adPlays/bascan-clicker)
+- 🔭 I’m currently working on [A private discord bot](https://github.com/D3adPlays/????)
 
 - 🌱 I’m currently learning **how html, css and js works 🤔**
 
