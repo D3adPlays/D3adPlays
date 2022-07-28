@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **how html, css and js works 🤔**
 
-- 📫 How to reach me **D3adPlays#1921**
+- 📫 How to reach me **D3adplays#4333**
 
 - ⚡ Fun fact **i love syntax errors.**
 
