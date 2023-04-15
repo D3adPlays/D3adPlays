@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **how electron works 🤔**
 
-- 📫 How to reach me **D3adplaysVR#2628**
+- 📫 How to reach me **D3adplaysVR#2628 or matt.witro@gmail.com**
 
 - ⚡ Fun fact **cafeine is verry adictive. ☕**
 
