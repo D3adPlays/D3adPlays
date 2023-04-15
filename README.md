@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthieu</h1>
 <h3 align="center">A passionate fullstack developerfrom france 🥐</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3adplays" alt="d3adplays" /></a> </p>
-
 - 🔭 I’m currently working on [ColoredLauncher](https://github.com/D3adPlays/ColoredLauncher)
 
 - 🌱 I’m currently learning **how electron works 🤔**
