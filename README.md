@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3adplays" alt="d3adplays" /></a> </p>
 
-- 🔭 I’m currently working on [A private discord bot](https://github.com/D3adPlays/????)
+- 🔭 I’m currently working on [ColoredLauncher](https://github.com/D3adPlays/ColoredLauncher)
 
-- 🌱 I’m currently learning **how html, css and js works 🤔**
+- 🌱 I’m currently learning **how electron works 🤔**
 
-- 📫 How to reach me **D3adplays#4333**
+- 📫 How to reach me **D3adplaysVR#2628**
 
-- ⚡ Fun fact **i love syntax errors.**
+- ⚡ Fun fact **cafeine is verry adictive. ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
