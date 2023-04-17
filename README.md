@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how electron works 🤔**
 
-- 📫 How to reach me **D3adplaysVR#2628 or matt.witro@gmail.com**
+- 📫 How to reach me **matt.witro@gmail.com** or
 
 <a href=""><img src="https://discord.c99.nl/widget/theme-4/281718112427048960.png" alt="rien"/></a>
 
