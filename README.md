@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **D3adplaysVR#2628 or matt.witro@gmail.com**
 
+<a href=""><img src="https://discord.c99.nl/widget/theme-4/281718112427048960.png" alt="rien"/></a>
+
 - ⚡ Fun fact **cafeine is verry adictive. ☕**
 
 <h3 align="left">Connect with me:</h3>
