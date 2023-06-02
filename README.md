@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthieu</h1>
 <h3 align="center">A passionate fullstack developerfrom france 🥐</h3>
 
-- 🔭 I’m currently working on [ColoredLauncher](https://github.com/D3adPlays/ColoredLauncher)
+- 🔭 I’m currently working on [OSLC](https://github.com/D3adPlays/oslc)
 
 - 🌱 I’m currently learning **how electron works 🤔**
 
