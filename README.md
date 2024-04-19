@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthieu</h1>
-<h3 align="center">A passionate fullstack developerfrom france 🥐</h3>
+<h3 align="center">A passionate fullstack software engineer from france 🥐</h3>
 
-- 🔭 I’m currently working on [Vibe Overflow](https://github.com/D3adPlays/vibeoverflow-mobile)
+- 🔭 I’m currently working on [{EPITECH}](https://www.epitech.eu/) projects!
 
-- 🌱 I’m currently learning **how electron works 🤔**
+- 🌱 I’m currently learning **Godot C# 🤔** and sor far it is AMAZING!
 
 - 📫 How to reach me **matt.witro@gmail.com** or
 
