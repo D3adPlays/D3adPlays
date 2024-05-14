@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [{EPITECH}](https://www.epitech.eu/) projects! So my projects will be paused for some time.
 
-- 🌱 I’m currently learning **Godot C# 🤔** and sor far it is AMAZING!
+- 🌱 I’m currently making a [corewar virtual machine and compiler](https://fr.wikipedia.org/wiki/Core_War) from scratch in C!
 
 - 📫 How to reach me **matt.witro@gmail.com** or
 
@@ -11,6 +11,6 @@
 
 - ⚡ Fun fact **cafeine is verry adictive. ☕**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools that i use:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3adplays&show_icons=true&locale=en&layout=compact" alt="d3adplays" /></p>
