@@ -17,4 +17,4 @@
 
 <h3 align="left">Languages and Tools that i use:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3adplays&show_icons=true&locale=en&layout=compact" alt="d3adplays" /></p>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018dc3f1-fcff-417e-807d-1d05d1f346c6/b3d4d840-9554-48a6-9dad-3136716e5ec2.png" /></a>
