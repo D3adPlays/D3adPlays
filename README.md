@@ -13,7 +13,7 @@
 
 <h3 align="left">Time spent coding: </h3>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018dc3f1-fcff-417e-807d-1d05d1f346c6/ddd64786-160e-420f-ae43-8af8cc2cb5ce.png" /></a>
+![Spent Time](https://wakapi.deadplays.fr/api/activity/chart/deadplays.svg)
 
 <h3 align="left">Languages and Tools that i use:</h3>
 
