@@ -9,9 +9,14 @@
 
 <a href=""><img src="https://discord.c99.nl/widget/theme-4/281718112427048960.png" alt="rien"/></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - ⚡ Fun fact **cafeine is verry adictive. ☕**
 
 <h3 align="left">Time spent coding: </h3>
+
+
 
 ![Spent Time](https://wakapi.deadplays.fr/api/activity/chart/deadplays.svg)
 
